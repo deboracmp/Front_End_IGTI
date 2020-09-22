@@ -1,7 +1,7 @@
-# Front_End_IGTI
+# Front_End_IGTI - Fundamentos - módulo 1
  Bootcamp Online - Desenvolvedor Front End - IGTI - 09-2020
  
- Desafio:
+ Desafio Módulo 1:
 
 (✓) Criar um formulário com um campo de texto "nome".  
 (✓) Ao digitar algo e apertar ENTER, o nome cadastrado
