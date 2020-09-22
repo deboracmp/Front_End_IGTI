@@ -1,0 +1,98 @@
+body {
+    font-family: 'Raleway', sans-serif;
+    padding: 1rem;
+    margin-left: 15rem;
+    margin-right: 15rem;
+}
+
+header {
+    margin-bottom: 5rem;
+    padding-top: 2rem;;
+}
+
+/* main {
+    height: 60vh;
+} */
+
+h1 {
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+}
+
+h2 {
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding-bottom: 2rem;
+}
+
+p {
+    text-align: center;
+    padding: 1rem;;
+}
+
+
+ul {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+li {
+    padding: 0.5rem;
+}
+
+
+.form, .table {
+    align-items: center;
+    border: 2px solid deepskyblue;
+    display: flex;
+    flex-direction: column;
+    margin: 2rem;
+    padding: 2rem;
+    text-align: center;
+}
+
+
+.button_form {
+    background-color: deepskyblue;
+    border: 2px solid deepskyblue;
+    border-radius: 3px;
+    color: white;
+    font-size: 1rem;
+    font-weight: 600;
+    margin: 2rem;
+    padding: 0.5rem 0.5rem;
+    text-align: center;
+    text-decoration: none;
+    width: 150px;
+}
+
+.button_form:hover {
+    background-color: rgb(0, 145, 194);
+}
+
+.disabled {
+    opacity: 0.6;
+    cursor: not-allowed;
+  }
+
+.name_input {
+    width: 30rem;
+    height: 1.5rem;;
+    font-size: 1rem;;
+}
+
+.clickable {
+    cursor: pointer;
+}
+
+.delete-button {
+    color: whitesmoke;
+    font-weight: bold;
+    background-color: tomato;
+    margin-right: 10px;
+    border-radius: 20%;
+    border: 2px solid tomato;
+
+}
